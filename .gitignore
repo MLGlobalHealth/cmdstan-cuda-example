@@ -1,0 +1,6 @@
+/.vscode/
+**/__pycache__/
+/output/*
+!output/
+
+*.o
