@@ -1,6 +1,6 @@
 
 # cmdstan-cuda-example
-
+[![DOI](https://zenodo.org/badge/853786155.svg)](https://doi.org/10.5281/zenodo.13939365)
 
 ## About this repository
 
